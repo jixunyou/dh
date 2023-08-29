@@ -78,7 +78,7 @@
 				<p>
 					官网地址⑦：
 					<a href="http://vpn.jixunyou.com" target="_blank">
-						vpn.jixunyou02.com
+						vpn.jixunyou.com
 					</a>
 				</p>
 				<hr class="featurette-divider">
